@@ -1,0 +1,4 @@
+- github.io -> .
+- gitpod.io
+    - `npm i -g live-server`
+    - `live-server .`
